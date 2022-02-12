@@ -1,0 +1,18 @@
+.form__holder{
+
+padding-top: 70px;
+
+margin: auto;
+
+
+
+
+}
+.form__todo{
+    width: 350px;
+    height: 40px;
+    border-radius: 1px 1px;
+    padding: 10px 15px;
+    font-size: 20px;
+
+}
